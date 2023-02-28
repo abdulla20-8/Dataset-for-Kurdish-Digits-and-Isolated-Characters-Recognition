@@ -19,3 +19,9 @@ This work presents two massive datasets for central Kurdish handwriting digits a
 Labeling and organizing:
 Each image is labeled with an ID number, the number of the folder in each dataset represents a single digit or character. For example, folder number 02 in the K-PIT dataset is the id of the letter, which in this case is Alef (ا), and folder number 03 in the K-ZHMARA dataset is the id of the digit, which in this case is three (٣). Each digit and character were stored in a folder with its ID as the name of that folder, with each folder containing 6000 images of that letter/digit for the training and 1000 images for the testing.
 
+## Image
+* Character
+![Exmaple](image/Screenshot%202023-02-28%20171502.png)
+
+* Number
+![Exmaple](image/Screenshot%202023-02-28%20173326.png)
