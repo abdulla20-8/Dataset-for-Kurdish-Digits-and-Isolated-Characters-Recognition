@@ -1,4 +1,4 @@
-## Kurdish Central HandWriting Dataset
+## Kurdish Central handwritten Dataset
 
 * link of the dataset [here](https://data.mendeley.com/datasets/zb66pp7vjh)
 
